@@ -1,0 +1,4 @@
+name: TwitchAPI
+version: '${project.version}'
+main: twitchapi.twitchapi.TwitchAPI
+api-version: 1.19
